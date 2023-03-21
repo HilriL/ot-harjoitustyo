@@ -1,4 +1,7 @@
-# Tämä on otsikko
+# Ohjelmistotekniikka, harjoitustyö
+## Tehtävät
 
-Tämä taasen on tavallista tekstiä,
-joka sisältää niin **lihavoituja** kuin *kursivoitujakin* osuuksia.
+## Viikko 1
+
+[gitlog.txt](https://github.com/HilriL/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt
+[komentorivi.txt](https://github.com/HilriL/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
