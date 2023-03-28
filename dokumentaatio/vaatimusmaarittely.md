@@ -1,22 +1,22 @@
-Vaatimusmäärittely
+# Vaatimusmäärittely
 
-Sovelluksen tarkoitus
+## Sovelluksen tarkoitus
 
 Sovelluksen tarkoituksena on toimia eräänlaisena käyttäjän muistilistana, johon hän voi lisätä muistettavia ja/tai tehtäviä asioita.
 
-Käyttäjät
+## Käyttäjät
 
 Sovelluksella on ainakin normaaleja käyttäjiä.
 
 
-Toiminnallisuudet
+## Toiminnallisuudet
 
 Ennen kirjautumista
 
 Uusi käyttäjä voi rekisteröityä
 Sisäänkirjautuminen tunnuksilla
 
-Kirjautumisen jälkeen
+## Kirjautumisen jälkeen
 
 Uusien muistettavien asioiden/tehtävien lisääminen
 Lisättyjen asioiden/tehtävien näkyminen
